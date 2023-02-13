@@ -15,10 +15,6 @@ const Misc = () => {
             src: "assets/npm.svg"
         },
         {
-            name: "Heroku",
-            src: "assets/heroku.svg"
-        },
-        {
             name: "Python",
             src: "assets/python.svg"
         },

@@ -15,7 +15,7 @@ const About = () => {
 
       <p className='text-gray-400 pb-10 text-l'>Sou Brasileiro, natural de Natal/RN, atualmente morando em Portugal. Apaixonado por música, computação, tecnologia e ciência. Há dois anos tenho voltado meus estudos, de forma autodidata, para área de Desenvolvimento Web.</p>
 
-      <p className='text-white pb-10 text-2xl'><span className='font-semibold'>Quais são as minhas "skills"?</span> </p>
+      <p className='text-white pb-10 text-2xl'><span className='font-semibold'>Quais são as minhas <span className='italic'>skills?</span></span></p>
 
       <p className='text-gray-400 pb-10 text-l'>Venho aperfeiçoando minhas habilidades desenvolvendo projetos utilizando as seguintes tecnologias e ferramentas:</p>
 
