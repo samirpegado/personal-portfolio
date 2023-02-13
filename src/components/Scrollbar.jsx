@@ -18,7 +18,7 @@ import "react-multi-carousel/lib/styles.css";
     {
       title: "Personal Portfolio",
       link: "#",
-      github: "https://github.com/samirpegado/dall-e-mern",
+      github: "https://github.com/samirpegado/personal-portfolio",
       src: "assets/card006.png"
     },
     {
