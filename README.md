@@ -1,4 +1,4 @@
-# Repositório destinado ao meu primeiro portifólio pessoal
+# Repositório destinado ao meu primeiro portfólio pessoal
 
 ## Criado com React, Vite and Tailwind CSS
 
