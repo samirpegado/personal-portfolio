@@ -10,6 +10,12 @@ import "react-multi-carousel/lib/styles.css";
       src: "assets/card001.png"
     },
     {
+      title: "React Budget App",
+      link: "https://budget-app-six-mauve.vercel.app",
+      github: "https://github.com/samirpegado/budget-app",
+      src: "assets/card007.png"
+    },
+    {
       title: "Django CRUD",
       link: "http://samirpegado.pythonanywhere.com/",
       github: "https://github.com/samirpegado/desafioLEVE",
