@@ -22,6 +22,10 @@ const Misc = () => {
             name: "Photoshop",
             src: "assets/photoshop.svg"
         },
+        {
+            name: "Linux",
+            src: "assets/linux.svg"
+        },
      ]
   return (
     Miscell.map((Miscell, i) => (

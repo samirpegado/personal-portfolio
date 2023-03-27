@@ -131,7 +131,7 @@ import "react-multi-carousel/lib/styles.css";
 
                       <a href={Cards.github} className='flex items-center bg-white hover:bg-gray-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow'>                 
                       <ion-icon name="logo-github" />
-                      <p className='px-2 hidden md:inline'>Ver Código</p> 
+                      <p className='px-2 hidden md:inline'>View Code</p> 
                       </a>                  
                      </div>
                   </div>

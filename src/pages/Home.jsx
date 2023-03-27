@@ -9,7 +9,7 @@ const Home = () => {
     </div>
     <div className='flex-1 grid justify-items-center'>
       <h1 className='md:text-7xl text-3xl font-semibold text-white pt-10 pb-4'>Samir Pegado</h1>
-      <p className='text-gray-400 pt-4 pb-10 text-center'>Olá! Seja bem-vindo ao meu site pessoal! Sinta-se à vontade para me seguir nas redes sociais</p>
+      <p className='text-gray-400 pt-4 pb-10 text-center'>Hi! Welcome to my personal website! Feel free to follow me on social media.</p>
     </div>
     <div className='text-white grid text-3xl z-50 justify-items-center gap-4 '>
       <div className='space-x-2'>

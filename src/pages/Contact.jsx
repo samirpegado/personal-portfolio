@@ -15,7 +15,7 @@ const Contact = () => {
     emailjs.sendForm('service_bcs10t3', 'template_d4a156m', form.current, 'OzdxAaStAALXJ2LlE')
       .then((result) => {
           console.log(result.text);
-          alert("Mensagem enviada!")
+          alert("Message sent!")
       }, (error) => {
           console.log(error.text);
       });
@@ -26,9 +26,9 @@ const Contact = () => {
     
     <div id="contact" className='p-10 pt-24 md:p-20 grid-cols-1 md:flex-row gap-5 bg-[#111319] md:h-screen'>
 
-      <h1 className='md:text-6xl text-4xl font-semibold text-white pb-14 md:pb-24 '>Contato</h1>
+      <h1 className='md:text-6xl text-4xl font-semibold text-white pb-14 md:pb-24 '>Contact</h1>
 
-      <p className='text-white pb-10 text-xl'>Interessado em falar comigo? Estou sempre aberto a discutir trabalhos ou oportunidades de parceria.</p>
+      <p className='text-white pb-10 text-xl'>If you are interested in discussing work or partnership opportunities, please do not hesitate to contact me. I am always open to new opportunities and would love to chat with you.</p>
 
 
       <div className='md:flex md:gap-2 md:justify-between'>
@@ -69,7 +69,7 @@ const Contact = () => {
 
         <div className='text-2xl text-white  bg-[#191C26] p-10 shadow-md shadow-neutral-900 md:w-full'>
 
-            <h1 className='text-xl text-gray-600'>Me envie um email</h1>
+            <h1 className='text-xl text-gray-600'>Send me an email</h1>
 
             <form ref={form} onSubmit={sendEmail} className='mt-6'>
               <div className='mb-2'>
@@ -84,7 +84,7 @@ const Contact = () => {
                 </label>
               </div>
 
-              <button type="submit" value="Send" className='flex items-center bg-none hover:bg-gray-100 text-gray-300 hover:text-gray-800 text-xl py-2 px-6 border-2 border-gray-100 rounded shadow'>Enviar</button>
+              <button type="submit" value="Send" className='flex items-center bg-none hover:bg-gray-100 text-gray-300 hover:text-gray-800 text-xl py-2 px-6 border-2 border-gray-100 rounded shadow'>Submit</button>
 
             </form>
         </div>

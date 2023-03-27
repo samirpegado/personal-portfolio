@@ -12,15 +12,15 @@ const NavLinks = () => {
             link: "home"
         },
         {
-            name: "Sobre",
+            name: "About",
             link: "about"
         },
         {
-            name: "Projetos",
+            name: "Projects",
             link: "projects"
         },
         {
-            name: "Contato",
+            name: "Contact",
             link: "contact"
         },
     ]
