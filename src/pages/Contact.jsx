@@ -55,7 +55,7 @@ const Contact = () => {
           </div>
 
           <div className='text-2xl text-white flex bg-[#191C26] items-center p-10 shadow-md shadow-neutral-900 h-4 md:h-full justify-center'>
-              <a href="https://flowcv.com/resume/pfcssto0ks">
+              <a href="https://flowcv.com/resume/hb4pum956e">
 
               <ion-icon name="newspaper-outline" />
               <a className='px-2'>CV</a>
