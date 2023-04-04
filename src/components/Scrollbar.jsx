@@ -4,6 +4,12 @@ import "react-multi-carousel/lib/styles.css";
 
   const Cards = [
     {
+      title: "Django CRM",
+      link: "https://djangocrm.up.railway.app",
+      github: "https://github.com/samirpegado/djangocrm",
+      src: "assets/card008.png"
+    },
+    {
       title: "React Shopping Cart",
       link: "https://samirpegado.github.io/shopping-cart/#/store",
       github: "https://github.com/samirpegado/shopping-cart",
