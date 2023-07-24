@@ -2,14 +2,7 @@ import React from 'react'
 
 const Back = () => {
     const Backend = [
-        {
-            name: "NodeJS",
-            src: "assets/nodejs.svg"
-        },
-        {
-            name: "Express",
-            src: "assets/express.svg"
-        },
+       
         {
             name: "Django",
             src: "assets/django.svg"
@@ -19,13 +12,10 @@ const Back = () => {
             src: "assets/mongodb.svg"
         },
         {
-            name: "Mongoose",
-            src: "assets/mongoose.svg"
+            name: "SQlite",
+            src: "assets/sql.png"
         },
-        {
-            name: "Cloudinary",
-            src: "assets/cloudinary.svg"
-        },
+       ,
     ]
   return (
     Backend.map((Backend, i) => (

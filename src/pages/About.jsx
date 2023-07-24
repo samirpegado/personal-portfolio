@@ -1,7 +1,7 @@
 import React from 'react'
-import Back from '../components/Back'
 import Front from '../components/Front'
 import Misc from '../components/Misc'
+import And from '../components/And'
 
 
 const About = () => {
@@ -11,28 +11,29 @@ const About = () => {
 
       <h1 className='md:text-6xl text-4xl font-semibold text-white pb-14 md:pb-24 '>About</h1>
 
-      <p className='text-white pb-10 text-2xl'>Hi, I am <span className='font-semibold'>Samir Pegado</span> </p>
+      <p className='text-white pb-10 text-2xl'>Hi, I am <span className='font-semibold'>Samir Gomes</span> </p>
 
-      <p className='text-gray-400 pb-10 text-l'>I am Brazilian, born in Natal/RN, and currently living in Portugal. I am passionate about music, computing, technology, and science. For the past two years, I have been self-taught in the field of web development.</p>
+      <p className='text-gray-400 pb-10 text-l'>I am Brazilian, born in Natal/RN, and currently living in Portugal. I am passionate about music, computing, technology, and science. For the past two years, I have been self-taught in the field of Android and Web Development.</p>
 
       <p className='text-white pb-10 text-2xl'><span className='font-semibold'>What are my skills?</span></p>
 
       <p className='text-gray-400 pb-10 text-l'>I have been honing my skills in web development by working on projects that utilize various technologies and tools, such as:</p>
 
       <div>
-        <div className='pb-10'>
-          <p className='text-white pb-6 text-xl'><span className='font-semibold'>front-end</span> </p>
+      <div className='pb-10'>
+        <img srcSet='assets/android.png' className='h-10' />
+          <p className='text-white pb-6 text-xl'><span className='font-semibold'>android development</span> </p>
 
           <div className='md:gap-14 md:flex pb-10 grid gap-4 gap-y-10 grid-cols-4'>
-            <Front />          
+            <And />          
           </div>
         </div>
 
         <div className='pb-10'>
-          <p className='text-white pb-6 text-xl'><span className='font-semibold'>back-end</span> </p>
+          <p className='text-white pb-6 text-xl'><span className='font-semibold'>web development</span> </p>
 
           <div className='md:gap-14 md:flex pb-10 grid gap-4 gap-y-10 grid-cols-4'>
-            <Back />                 
+            <Front />          
           </div>
         </div>
 

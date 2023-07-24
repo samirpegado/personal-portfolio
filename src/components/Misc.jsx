@@ -11,16 +11,12 @@ const Misc = () => {
             src: "assets/github.svg"
         },
         {
-            name: "npm",
-            src: "assets/npm.svg"
-        },
-        {
             name: "Python",
             src: "assets/python.svg"
         },
         {
-            name: "Photoshop",
-            src: "assets/photoshop.svg"
+            name: "SQLite",
+            src: "assets/sql.png"
         },
         {
             name: "Linux",

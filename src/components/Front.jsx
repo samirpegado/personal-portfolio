@@ -19,17 +19,9 @@ const Front = () => {
             src: "assets/react.svg"
         },
         {
-            name: "Vite",
-            src: "assets/vite.svg"
-        },
-        {
-            name: "Tailwind CSS",
-            src: "assets/tailwind.svg"
-        },
-        {
-            name: "Bootstrap",
-            src: "assets/bootstrap.svg"
-        },
+            name: "Django",
+            src: "assets/django.svg"
+        }        
     ]
   return (
     Frontend.map((Frontend, i) => (

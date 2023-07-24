@@ -4,10 +4,22 @@ import "react-multi-carousel/lib/styles.css";
 
   const Cards = [
     {
-      title: "Django CRM",
-      link: "https://djangocrm.up.railway.app",
-      github: "https://github.com/samirpegado/djangocrm",
-      src: "assets/card008.png"
+      title: "Banking Clone App",
+      link: "https://github.com/samirpegado/banking-clone",
+      github: "https://github.com/samirpegado/banking-clone",
+      src: "assets/bankingclone.gif"
+    },
+    {
+      title: "Calculator App",
+      link: "https://github.com/samirpegado/calculator-app",
+      github: "https://github.com/samirpegado/calculator-app",
+      src: "assets/calculator.gif"
+    },
+    {
+      title: "Little Lemon App",
+      link: "https://github.com/samirpegado/littlelemon-interface",
+      github: "https://github.com/samirpegado/littlelemon-interface",
+      src: "assets/littlelemon.gif"
     },
     {
       title: "React Shopping Cart",
@@ -23,7 +35,7 @@ import "react-multi-carousel/lib/styles.css";
     },
     {
       title: "Django CRUD",
-      link: "http://samirpegado.pythonanywhere.com/",
+      link: "https://github.com/samirpegado/desafioLEVE",
       github: "https://github.com/samirpegado/desafioLEVE",
       src: "assets/card002.png"
     },
@@ -35,7 +47,7 @@ import "react-multi-carousel/lib/styles.css";
     },
     {
       title: "DALL-E AI MERN Clone",
-      link: "#",
+      link: "https://github.com/samirpegado/dall-e-mern",
       github: "https://github.com/samirpegado/dall-e-mern",
       src: "assets/card003.png"
     },
@@ -121,9 +133,9 @@ import "react-multi-carousel/lib/styles.css";
 >
 
 {Cards.map((Cards ) => 
-        <div className='inline-block rounded-xl group relative shadow-card hover:shadow-cardhover card p-3' >
+        <div className=' rounded-xl group relative shadow-card hover:shadow-cardhover card p-3 flex items-center justify-center' >
 
-          <img className='object-cover rounded-xl hover:opacity-20 hover:scale-110 ease-in-out duration-300 shadow-lg shadow-gray-900  border-4 border-hidden ' src="" alt="" srcset={Cards.src} />
+          <img className='h-80 object-cover rounded-xl hover:opacity-20 hover:scale-110 ease-in-out duration-300 shadow-lg shadow-gray-900  border-4 border-hidden ' src="" alt="" srcset={Cards.src} />
           
           <div className="group-hover:flex flex-col max-h-[94.5%] hidden absolute bottom-0 left-0 right-0 bg-[#10131f] m-2 p-4 rounded-md">
                 <p className="text-white text-sm overflow-y-auto prompt">{Cards.title}</p>
