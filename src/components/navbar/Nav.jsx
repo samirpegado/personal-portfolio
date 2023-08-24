@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Logo from '/assets/logo.png'
+import Logo from '/assets/logosg.png'
 import NavLinks from './NavLinks'
 
 const Nav = () => {

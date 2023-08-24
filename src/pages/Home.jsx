@@ -8,7 +8,7 @@ const Home = () => {
       <img className=' rounded-full border-8 border-gray-600 hover:border-[14px] ease-in-out duration-300' src={ProfileImg} />
     </div>
     <div className='flex-1 grid justify-items-center'>
-      <h1 className='md:text-7xl text-3xl font-semibold text-white pt-10 pb-4'>Samir Pegado</h1>
+      <h1 className='md:text-7xl text-3xl font-semibold text-white pt-10 pb-4'>Samir Gomes</h1>
       <p className='text-gray-400 pt-4 pb-10 text-center'>Hi! Welcome to my personal website! Feel free to follow me on social media.</p>
     </div>
     <div className='text-white grid text-3xl z-50 justify-items-center gap-4 '>
