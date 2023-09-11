@@ -13,7 +13,7 @@ const About = () => {
 
       <p className='text-white pb-10 text-2xl'>Hi, I am <span className='font-semibold'>Samir Gomes</span> </p>
 
-      <p className='text-gray-400 pb-10 text-l'>I am Brazilian, born in Natal/RN, and currently living in Portugal. I am passionate about music, computing, technology, and science. For the past two years, I have been self-taught in the field of Android and Web Development.</p>
+      <p className='text-gray-400 pb-10 text-l'>I am Brazilian, born in Natal/RN, and currently living in Campina Grande/PB. I am passionate about music, computing, technology, and science. For the past two years, I have been self-taught in the field of Android and Web Development.</p>
 
       <p className='text-white pb-10 text-2xl'><span className='font-semibold'>What are my skills?</span></p>
 
