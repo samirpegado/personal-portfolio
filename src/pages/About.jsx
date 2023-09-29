@@ -17,7 +17,7 @@ const About = () => {
 
       <p className='text-white pb-10 text-2xl'><span className='font-semibold'>What are my skills?</span></p>
 
-      <p className='text-gray-400 pb-10 text-l'>I have been honing my skills in web development by working on projects that utilize various technologies and tools, such as:</p>
+      <p className='text-gray-400 pb-10 text-l'>I have been honing my skills by working on projects that utilize various technologies and tools, such as:</p>
 
       <div>
       <div className='pb-10'>
