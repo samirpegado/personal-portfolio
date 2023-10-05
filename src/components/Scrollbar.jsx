@@ -28,6 +28,12 @@ import "react-multi-carousel/lib/styles.css";
       src: "assets/card001.png"
     },
     {
+      title: "Django CRM",
+      link: "https://github.com/samirpegado/djangocrm",
+      github: "https://github.com/samirpegado/djangocrm",
+      src: "assets/card008.png"
+    },
+    {
       title: "React Budget App",
       link: "https://budget-app-six-mauve.vercel.app",
       github: "https://github.com/samirpegado/budget-app",
@@ -51,18 +57,6 @@ import "react-multi-carousel/lib/styles.css";
       github: "https://github.com/samirpegado/dall-e-mern",
       src: "assets/card003.png"
     },
-    {
-      title: "A Simple Calculator",
-      link: "https://samirpegado.github.io/calculator/",
-      github: "https://github.com/samirpegado/calculator",
-      src: "assets/card004.png"
-    },
-    {
-      title: "Tic-Tac-Toe Game",
-      link: "https://samirpegado.github.io/tic-tac-toe/",
-      github: "https://github.com/samirpegado/tic-tac-toe",
-      src: "assets/card005.png"
-    }
   ]
 
 
