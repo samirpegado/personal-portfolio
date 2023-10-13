@@ -34,6 +34,12 @@ import "react-multi-carousel/lib/styles.css";
       src: "assets/card008.png"
     },
     {
+      title: "Angular + Typescript Project",
+      link: "https://desafio-typescript-chuva.vercel.app",
+      github: "https://github.com/samirpegado/desafio-typescript-chuva",
+      src: "assets/card009.png"
+    },
+    {
       title: "React Budget App",
       link: "https://budget-app-six-mauve.vercel.app",
       github: "https://github.com/samirpegado/budget-app",
