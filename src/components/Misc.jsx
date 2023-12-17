@@ -11,6 +11,10 @@ const Misc = () => {
             src: "assets/github.svg"
         },
         {
+            name: "Firebase",
+            src: "assets/firebase.png"
+        },
+        {
             name: "Python",
             src: "assets/python.svg"
         },

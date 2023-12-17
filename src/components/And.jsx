@@ -2,7 +2,14 @@ import React from 'react'
 
 const And = () => {
     const Android = [
-       
+        {
+            name: "Flutter",
+            src: "assets/flutter.png"
+        },
+        {
+            name: "Dart",
+            src: "assets/dart.png"
+        },       
         {
             name: "Kotlin",
             src: "assets/kotlin.png"

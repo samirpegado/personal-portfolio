@@ -21,8 +21,8 @@ const About = () => {
 
       <div>
       <div className='pb-10'>
-        <img srcSet='assets/android.png' className='h-10' />
-          <p className='text-white pb-6 text-xl'><span className='font-semibold'>android development</span> </p>
+
+          <p className='text-white pb-6 text-xl'><span className='font-semibold'>mobile development</span> </p>
 
           <div className='md:gap-14 md:flex pb-10 grid gap-4 gap-y-10 grid-cols-4'>
             <And />          

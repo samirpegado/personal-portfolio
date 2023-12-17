@@ -4,6 +4,12 @@ import "react-multi-carousel/lib/styles.css";
 
   const Cards = [
     {
+      title: "FreeGIG App",
+      link: "https://github.com/samirpegado/freegig-app/",
+      github: "https://github.com/samirpegado/freegig-app/",
+      src: "assets/freegig.gif"
+    },
+    {
       title: "Angular + Typescript Project",
       link: "https://desafio-typescript-chuva.vercel.app",
       github: "https://github.com/samirpegado/desafio-typescript-chuva",
