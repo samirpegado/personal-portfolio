@@ -9,12 +9,7 @@ import "react-multi-carousel/lib/styles.css";
       github: "https://github.com/samirpegado/freegig-app/",
       src: "assets/freegig.gif"
     },
-    {
-      title: "Angular + Typescript Project",
-      link: "https://desafio-typescript-chuva.vercel.app",
-      github: "https://github.com/samirpegado/desafio-typescript-chuva",
-      src: "assets/card009.png"
-    },
+
     {
       title: "Banking Clone App",
       link: "https://github.com/samirpegado/banking-clone",
@@ -44,6 +39,12 @@ import "react-multi-carousel/lib/styles.css";
       link: "https://github.com/samirpegado/djangocrm",
       github: "https://github.com/samirpegado/djangocrm",
       src: "assets/card008.png"
+    },
+    {
+      title: "Angular + Typescript Project",
+      link: "https://desafio-typescript-chuva.vercel.app",
+      github: "https://github.com/samirpegado/desafio-typescript-chuva",
+      src: "assets/card009.png"
     },
     {
       title: "React Budget App",
